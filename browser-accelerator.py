@@ -3,7 +3,7 @@
 
 # 
 # Copyright 2010 Patryk Jaworski <skorpion9312@gmail.com>
-# Licence: GNU GPLv3
+# License: GNU GPLv3
 # 
 
 GNUPG=True;
@@ -268,7 +268,7 @@ class browserAccelerator:
 		print " Browser Accelerator ".center(50,"=");
 		print "= Author: Patryk Jaworski";
 		print "= Contact: skorpion9312@gmail.com";
-		print "= Licence: GNU GPLv3";
+		print "= License: GNU GPLv3";
 		print " Copyright (c) by Patryk Jaworski ".center(50,"=")+"\n";
 
 class utils:
